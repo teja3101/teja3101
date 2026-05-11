@@ -62,13 +62,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja3101&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats graph" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja3101&layout=compact&theme=dark" alt="languages graph" height="150" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja3101&theme=dark" alt="streak graph" height="150" />
 </div>
 
@@ -82,12 +75,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja3101&theme=react-dark" alt="activity graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teja3101/teja3101/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
