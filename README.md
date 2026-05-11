@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python, Django, SQL, Data Analytics & Power BI<br>🎯 Goals: To become a Software Developer and Data Analyst building impactful real-world solutions<br>🎲 Fun fact: I built an AI-based online exam system that generates analysis reports and shows students their strong & weak topic performance 📊👩‍💻</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I have knowledge about Python, Django, SQL, Data Analytics & Power BI<br>🎯 Goals: To become a Software Developer and Data Analyst building impactful real-world solutions<br>🎲 Fun fact: I built an AI-based online exam system that generates analysis reports and shows students their strong & weak topic performance 📊👩‍💻</p>
 
 ###
 
