@@ -81,25 +81,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja3101&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats graph" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja3101&layout=compact&theme=dark" alt="languages graph" height="150" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja3101&theme=dark" alt="streak graph" height="150" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teja3101&theme=dracula&no-bg=true&column=4" alt="trophy graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja3101&theme=react-dark" alt="activity graph" />
 </div>
 
@@ -116,12 +97,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teja3101/teja3101/snake-output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/teja3101/teja3101/snake-output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=teja3101.teja3101&" />
 </div>
 
 ###
