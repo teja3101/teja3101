@@ -68,12 +68,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teja3101&theme=dracula&no-bg=true&column=4" alt="trophy graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja3101&theme=react-dark" alt="activity graph" />
 </div>
 
