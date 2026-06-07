@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Tejaswini and I'm from Kolhapur, Maharashtra</p>
+<p align="left">My name is Tejaswini and Currently I live in Pune, Maharashtra</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I have knowledge about Python, Django, SQL, Html, Css, javascript, React.js, Data Analytics & Power BI<br>🎯 Goals: To become a Software Developer and Data Analyst building impactful real-world solutions<br>🎲 Fun fact: I built an AI-based online exam system that generates analysis reports and shows students their strong & weak topic performance 📊👩‍💻</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I have knowledge about Python, Django, SQL, Html, Css, JavaScript, React.js, Data Analytics & Power BI<br>🎯 Goals: To become a Software Developer and Data Analyst building impactful real-world solutions<br>🎲 Fun fact: I built an AI-based online exam system that generates analysis reports and shows students their strong & weak topic performance 📊👩‍💻</p>
 
 ###
 
