@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I have knowledge about Python, Django, SQL, Html, Css, JavaScript, React.js, Data Analytics & Power BI<br>🎯 Goals: To become a Software Developer and Data Analyst building impactful real-world solutions<br>🎲 Fun fact: I built an AI-based online exam system that generates analysis reports and shows students their strong & weak topic performance 📊👩‍💻</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I have knowledge about Python, Django, SQL, Html, Css, JavaScript, React.js, Data Analytics & Power BI<br>🎯 Goals: To become a skilled Full Stack Developer by building real-world applications, improving my problem-solving abilities, and continuously learning modern technologies. I am currently focused on Python, Django, REST APIs, React.js, JavaScript, SQL, and databases, with a strong interest in creating scalable and user-friendly web applications.👩‍💻</p>
 
 ###
 
